@@ -6,7 +6,7 @@
 
 void Jumping::idle(Animation* a)
 {
-	std::cout << "Going from Idle to Jumping" << std::endl;
+	std::cout << "Going from Jumping to Idle" << std::endl;
 	a->setCurrent(new Idle());
 	delete this;
 }

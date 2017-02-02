@@ -1,9 +1,3 @@
-﻿  stdafx.cpp
-  Jump.cpp
-  Idle.cpp
-  FiniteStateMachine.cpp
-  Climbing.cpp
-  Animation.cpp
-  Generating Code...
+﻿  Idle.cpp
   FiniteStateMachine.vcxproj -> C:\Users\Jamie\Documents\GitHub\GamesEngineering-FSM\FiniteStateMachine\Debug\FiniteStateMachine.exe
   FiniteStateMachine.vcxproj -> C:\Users\Jamie\Documents\GitHub\GamesEngineering-FSM\FiniteStateMachine\Debug\FiniteStateMachine.pdb (Full PDB)
